@@ -1,0 +1,19 @@
+
+div{
+  outline-style:solid;
+  outline-color:grey;
+  outline-width:15px;
+}
+
+h2{
+  padding-top:10px;
+}
+table{
+  border-collapse:collapse;
+}
+table,td {
+  border:2px solid black;
+}
+frameset,frame{
+  frameborder:0px;
+}
